@@ -15,7 +15,9 @@
 
 - [Metro Quick](https://metro.co.uk/puzzles/quick-crossword/ "Metro's daily quick crossword")
 - [Metro Cryptic](https://metro.co.uk/puzzles/cryptic-crossword/ "Metro's daily cryptic crossword")
-- [Telegraph mini cryptic](https://www.telegraph.co.uk/puzzles/puzzle/ "Telegraph's daily mini cryptic crossword")
+- [Guardian Quick](https://www.theguardian.com/crosswords/series/quick/ "Guardian's daily quick crossword")
+- [The Guardian Cryptic](https://www.theguardian.com/crosswords/series/cryptic "Guardian's daily cryptic crossword")
+- [Telegraph mini cryptic](https://www.telegraph.co.uk/puzzles/puzzle/ "Half regular, half cryptic clues")
 
 ## Cryptic Clues
 
