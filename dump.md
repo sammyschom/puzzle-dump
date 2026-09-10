@@ -13,7 +13,7 @@
 
 - [Worldle](https://worldle.teuteuf.fr/ "Guess the country from its silhouette")
 - [Globle](https://globle-game.com/ "Guess the country using proximity heat clues")
-- [Size it up: Geography](https://magnitudle.com/size-it-up/geography "Geography estimation game")
+- [Size it up: Geography](https://magnitudle.com/size-it-up/geography "Geographical size comparison game")
 - [Timeguessr](https://timeguessr.com/ "Guess the year and location of a historical photo")
 - [Memorize Earth](https://memorizeearth.com/ "Jeopardy style geography trivia")
 - [Flagle](https://www.flagle.io/ "Guess the country from its flag")
@@ -28,33 +28,33 @@
 
 ## Estimation
 
-- [Size it up](https://magnitudle.com/size-it-up "Estimation game")
-- [Size it up: Pop Culture](https://magnitudle.com/size-it-up/pop-culture "Pop Culture estimation game")
-- [Daily estimation](https://magnitudle.com/daily "Daily estimation")
+- [Size it up](https://magnitudle.com/size-it-up "Size comparison game")
+- [Size it up: Pop Culture](https://magnitudle.com/size-it-up/pop-culture "Pop Culture size comparison game")
+- [Daily estimation](https://magnitudle.com/daily "One question, one guess")
 
 ## Maths
 
 - [Nerdle](https://nerdlegame.com/ "Guess the daily equation, Wordle-style")
-- [Countle](https://www.countle.org/ "Countdown style numbers game")
-- [Additional](https://additional.today/ "Fun maths game!")
+- [Countle](https://www.countle.org/ "Hit a target number using given numbers and operators")
+- [Additional](https://additional.today/ "Guess the daily number using clues about factors and digits")
 
 ## Miscellaneous
 
 - [Dartwords](https://www.dartwords.com/ "10 guesses for word, with a helpful assistant")
 - [Connections](https://www.nytimes.com/games/connections "Group 16 words into 4 hidden categories")
-- [Krillion](https://krillion.io/ "Like pointless, 7 questions to prove yourself")
+- [Krillion](https://krillion.io/ "Like Pointless — 7 questions, score low to win")
 - [Glyph](https://glyph.today/ "Letters meet geometry game")
-- [Strands](https://www.nytimes.com/games/strands "Themed word search with a hidden spangram")
+- [Strands](https://www.nytimes.com/games/strands "Themed word search with a hidden 'spangram'")
 - [Tradle](https://oec.world/en/games/tradle-game "Guess the country from its top exports")
 - [Enclosure horse](https://enclose.horse/ "Enclose the horse!")
 - [Redactle](https://redactle.net/ "Guess the Wikipedia article with all key words redacted")
 - [Timdle](https://www.timdle.com/daily "Organise events in a timeline")
 - [Intersections](https://www.playintersections.com/ "Words have multiple meanings...")
-- [TypeCircuit](https://typecircuit.com/ "Daily typing game!")
+- [TypeCircuit](https://typecircuit.com/ "Type words radiating out from a central letter, fast")
 
 ## Puzzle Hubs
 
-- [Puzzmo](https://www.puzzmo.com/today/ "Bundle of many puzzle games!")
-- [Ponder Club](https://ponderclub.co/ "Bundle of many puzzle games!")
+- [Puzzmo](https://www.puzzmo.com/today/ "Daily bundle")
+- [Ponder Club](https://ponderclub.co/ "Daily bundle")
 - [DLES](https://dles.gg/ "Index of Daily Logic Exercises (DLEs)")
 - [FactorDay](https://factorday.com/ "Bizarre wikipedia-type puzzles")
