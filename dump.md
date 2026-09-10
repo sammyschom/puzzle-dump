@@ -1,3 +1,16 @@
+## Word Games
+
+- [Wordle](https://www.nytimes.com/games/wordle/ "Guess the 5-letter word in 6 tries")
+- [Quordle](https://quordle-wordle.com/ "Solve four Wordles at once")
+- [Poople](https://poople.io/ "One letter at a time reach poop")
+- [Jeffgoldblumle](https://jeffgoldblumle.com/ "90% of the time the answer is jeffgoldblum...")
+- [Waffle](https://wafflegame.net/daily "Rearrange letters to solve a grid of five words")
+- [Dartwords](https://www.dartwords.com/ "10 guesses for word, with a helpful assistant")
+- [Connections](https://www.nytimes.com/games/connections "Group 16 words into 4 hidden categories")
+- [Glyph](https://glyph.today/ "Letters meet geometry game")
+- [Strands](https://www.nytimes.com/games/strands "Themed word search with a hidden 'spangram'")
+- [Intersections](https://www.playintersections.com/ "Words have multiple meanings...")
+
 ## Crosswords
 
 - [Metro Quick](https://metro.co.uk/puzzles/quick-crossword/ "Metro's daily quick crossword")
@@ -18,14 +31,6 @@
 - [Memorize Earth](https://memorizeearth.com/ "Jeopardy style geography trivia")
 - [Flagle](https://www.flagle.io/ "Guess the country from its flag")
 
-## Wordle Variants
-
-- [Wordle](https://www.nytimes.com/games/wordle/ "Guess the 5-letter word in 6 tries")
-- [Quordle](https://quordle-wordle.com/ "Solve four Wordles at once")
-- [Poople](https://poople.io/ "One letter at a time reach poop")
-- [Jeffgoldblumle](https://jeffgoldblumle.com/ "90% of the time the answer is jeffgoldblum...")
-- [Waffle](https://wafflegame.net/daily "Rearrange letters to solve a grid of five words")
-
 ## Estimation
 
 - [Size it up](https://magnitudle.com/size-it-up "Size comparison game")
@@ -40,16 +45,11 @@
 
 ## Miscellaneous
 
-- [Dartwords](https://www.dartwords.com/ "10 guesses for word, with a helpful assistant")
-- [Connections](https://www.nytimes.com/games/connections "Group 16 words into 4 hidden categories")
 - [Krillion](https://krillion.io/ "Like Pointless — 7 questions, score low to win")
-- [Glyph](https://glyph.today/ "Letters meet geometry game")
-- [Strands](https://www.nytimes.com/games/strands "Themed word search with a hidden 'spangram'")
 - [Tradle](https://oec.world/en/games/tradle-game "Guess the country from its top exports")
 - [Enclosure horse](https://enclose.horse/ "Enclose the horse!")
 - [Redactle](https://redactle.net/ "Guess the Wikipedia article with all key words redacted")
 - [Timdle](https://www.timdle.com/daily "Organise events in a timeline")
-- [Intersections](https://www.playintersections.com/ "Words have multiple meanings...")
 - [TypeCircuit](https://typecircuit.com/ "Type words radiating out from a central letter, fast")
 
 ## Puzzle Hubs
