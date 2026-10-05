@@ -7,9 +7,11 @@
 - [Waffle](https://wafflegame.net/daily) — Rearrange letters to solve a grid of five words
 - [Dartwords](https://www.dartwords.com/) — 10 guesses for a word, with a helpful assistant
 - [Connections](https://www.nytimes.com/games/connections) — Group 16 words into 4 hidden categories
+- [Layers](https://hiddenlayerlabs.com/play/) - Like connections but with 4 mini games (crossword, anagram, wordle, wordsearch)
 - [Glyph](https://glyph.today/) — Letters meet geometry game
 - [Strands](https://www.nytimes.com/games/strands) — Themed word search with a hidden "spangram"
 - [Intersections](https://www.playintersections.com/) — Words have multiple meanings...
+- [Blossom](https://www.merriam-webster.com/games/blossom-word-game) - Mum's suggestion
 
 ## Crosswords
 
@@ -32,6 +34,7 @@
 - [Timeguessr](https://timeguessr.com/) — Guess the year and location of a historical photo
 - [Memorize Earth](https://memorizeearth.com/) — Jeopardy-style geography trivia
 - [Flagle](https://www.flagle.io/) — Guess the country from its flag
+- [Map Tap](https://maptap.gg/) - Pinpoint cities on an unmarked globe
 
 ## Estimation
 
